@@ -1,5 +1,5 @@
 import express, { Application, Request, Response } from "express";
-import lyrics from "src/lyrics.json";
+import quotes from "src/quotes.json";
 
 var router = express.Router();
 
@@ -12,17 +12,17 @@ app.use(express.urlencoded({ extended: true }));
 
 //api routes
 app.get("/", async (req: Request, res: Response) => {
-  const lyric = lyrics[Math.floor(Math.random() * lyrics.length)];
+  const quote = quotes[Math.floor(Math.random() * quotes.length)];
   res.header("Content-Type", "application/json");
   return res.status(200).send({
-    message: lyric,
+    message: quote,
   });
 });
 
 app.get("/all", async (req: Request, res: Response) => {
   res.header("Content-Type", "application/json");
   return res.status(200).send({
-    message: lyrics,
+    message: quotes,
   });
 });
 
