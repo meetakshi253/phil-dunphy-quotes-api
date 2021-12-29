@@ -5,36 +5,42 @@
     "song": "Nothing New (ft. Phoebe Bridgers) (Taylor’s Version)",
     "album": "Red (Taylor's Version)"
   },
+
   {
     "id": 2,
     "lyric": "And you call me up again just to break me like a promise, so casually cruel in the name of being honest.",
     "song": "All Too Well",
     "album": "Red (Taylor's Version)"
   },
+
   {
     "id": 3,
     "lyric": "We're happy, free, confused and lonely at the same time",
     "song": "22",
     "album": "Red (Taylor's Version)"
   },
+
   {
     "id": 4,
     "lyric": "Words, how little they mean when you're a little too late.",
     "song": "Sad Beautiful Tragic",
     "album": "Red (Taylor's Version)"
   },
+
   {
     "id": 5,
     "lyric": "I bet you think about me when you say, 'Oh my god, she's insane, she wrote a song about me.'",
     "song": "I Bet You Think About Me (ft. Chris Stapleton) (Taylor's Version)",
     "album": "Red (Taylor's Version)"
   },
+
   {
     "id": 6,
     "lyric": "Time won't fly, it's like I'm paralyzed by it, I'd like to be my old self again, but I'm still trying to find it.",
     "song": "All Too Well",
     "album": "Red (Taylor's Version)"
   },
+
   {
     "id": 7,
     "lyric": "I rewind thе tape but all it does is pause on thе very moment all was lost.",
@@ -47,58 +53,269 @@
     "song": "coney island (ft. The National)",
     "album": "evermore"
   },
+
   {
     "id": 9,
     "lyric": "And damn, Dorothea/ They all wanna be ya/ But are you still the same soul/ I met under the bleachers?",
     "song": "dorothea",
     "album": "evermore"
   },
+
   {
     "id": 10,
     "lyric": "I should've asked you questions/ I should've asked you how to be/ Asked you to write it down for me/ Should've kept every grocery store receipt/ 'Cause every scrap of you would be taken from me",
     "song": "marjorie",
     "album": "evermore"
   },
+
   {
     "id": 11,
     "lyric": "Sorry, I can't see facts through all of my fury.",
     "song": "happiness",
     "album": "evermore"
   },
+
   {
     "id": 12,
     "lyric": "Good thing my daddy made me get a boating license when I was fifteen/ And I've cleaned enough houses to know how to cover up a scene",
     "song": "no body, no crime (ft. HAIM)",
     "album": "evermore"
   },
+
   {
     "id": 13,
-    "lyric": "",
-    "song": "",
+    "lyric": "There goes the maddest woman this town has ever seen/ She had a marvelous time ruining everything",
+    "song": "the last great american dynasty",
     "album": "folklore"
   },
+
   {
     "id": 14,
-    "lyric": "",
-    "song": "",
+    "lyric": "We gather stones never knowing what they’ll mean. Some to throw, some to make a diamond ring.",
+    "song": "my tears ricochet",
     "album": "folklore"
   },
+
   {
     "id": 15,
-    "lyric": "",
-    "song": "",
+    "lyric": "A friend to all is a friend to none.",
+    "song": "cardigan",
     "album": "folklore"
   },
+
   {
     "id": 16,
-    "lyric": "",
-    "song": "",
+    "lyric": "Please picture me in the weeds/ Before I learned civility/ I used to scream ferociously any time I wanted",
+    "song": "seven",
     "album": "folklore"
   },
   {
     "id": 17,
-    "lyric": "",
-    "song": "",
+    "lyric": "Second, third and hundredth chances, balancing on breaking branches.",
+    "song": "exile",
     "album": "folklore"
+  },
+
+  {
+    "id": 18,
+    "lyric": "Our coming of age has come and gone.",
+    "song": "peace",
+    "album": "folklore"
+  },
+
+  {
+    "id": 19,
+    "lyric": "In my feelings more than Drake.",
+    "song": "I Forgot That You Existed",
+    "album": "Lover"
+  },
+
+  {
+    "id": 20,
+    "lyric": "'I saw the dimples first and then I heard the accent.",
+    "song": "London Boy",
+    "album": "Lover"
+  },
+
+  {
+    "id": 21,
+    "lyric": "If I was out flashing my dollars, I'd be a bitch not a baller",
+    "song": "The Man",
+    "album": "Lover"
+  },
+
+  {
+    "id": 22,
+    "lyric": "Easy they come, easy they go I jump from the train, I ride off alone",
+    "song": "The Archer",
+    "album": "Lover"
+  },
+
+  {
+    "id": 23,
+    "lyric": "'I wanna be defined by the things that I love, not the things I hate",
+    "song": "Daylight",
+    "album": "Lover"
+  },
+
+  {
+    "id": 24,
+    "lyric": "Please don’t ever become a stranger whose laugh I could recognize anywhere.",
+    "song": "New Year's Day",
+    "album": "Reputation"
+  },
+
+  {
+    "id": 25,
+    "lyric": "This ain't for the best/ My reputation's never been worse, so/ You must like me for me",
+    "song": "Delicate",
+    "album": "Reputation"
+  },
+
+  {
+    "id": 26,
+    "lyric": "They’re burning all the witches, even if you aren’t one. So light me up.",
+    "song": "I did Something Bad",
+    "album": "Reputation"
+  },
+
+  {
+    "id": 27,
+    "lyric": "I’m sorry, but the old Taylor can’t come to the phone right now. Why? ‘Cause she’s dead.",
+    "song": "Look What You Made Me Do",
+    "album": "Reputation"
+  },
+
+  {
+    "id": 28,
+    "lyric": "You should take it as a compliment that I’m talking to everyone here but you.",
+    "song": "Gorgeous",
+    "album": "Reputation"
+  },
+
+  {
+    "id": 29,
+    "lyric": "We were built to fall apart/ Then fall back together",
+    "song": "Out of the Woods",
+    "album": "1989"
+  },
+
+  {
+    "id": 30,
+    "lyric": "You got that James Dean daydream look in your eye/ I got that red lip classic thing that you like/ And when we go crashing down, we come back every time",
+    "song": "Style",
+    "album": "1989"
+  },
+
+  {
+    "id": 31,
+    "lyric": "Just think while you've been gettin' down and out about the liars/ And the dirty, dirty cheats of the world/ You could've been gettin' down/ To this sick beat",
+    "song": "Shake it Off",
+    "album": "1989"
+  },
+
+  {
+    "id": 32,
+    "lyric": "Got a long list of ex-lovers. They’ll tell you I’m insane.",
+    "song": "Blank Space",
+    "album": "1989"
+  },
+
+  {
+    "id": 33,
+    "lyric": "Skies grew darker/ Current swept you out again /And you were just gone and gone, gone and gone/ In silent screams and wildest dreams/ I never dreamed of this",
+    "song": "This Love",
+    "album": "1989"
+  },
+
+  {
+    "id": 34,
+    "lyric": "You made a rebel of a careless man’s careful daughter",
+    "song": "Mine",
+    "album": "Speak Now"
+  },
+
+  {
+    "id": 35,
+    "lyric": "you paint me a blue sky/ And go back and turn it to rain",
+    "song": "Dear John",
+    "album": "Speak Now"
+  },
+
+  {
+    "id": 36,
+    "lyric": "It turns out freedom ain't nothing but missing you",
+    "song": "Back to December",
+    "album": "Speak Now"
+  },
+
+  {
+    "id": 37,
+    "lyric": "Why you gotta be so mean?",
+    "song": "Mean",
+    "album": "Speak Now"
+  },
+
+  {
+    "id": 38,
+    "lyric": "All that I know is I don't know/ How to be something you miss",
+    "song": "Last Kiss",
+    "album": "Speak Now"
+  },
+
+  {
+    "id": 39,
+    "lyric": "All those other girls, well they’re beautiful, but would they write a song for you?",
+    "song": "Hey Stephen",
+    "album": "Fearless (Taylor's Version)"
+  },
+
+  {
+    "id": 40,
+    "lyric": "And I don't know why/ But with you I'd dance/ In a storm in my best dress/ Fearless",
+    "song": "Fearless",
+    "album": "Fearless (Taylor's Version)"
+  },
+
+  {
+    "id": 41,
+    "lyric": "Standing by and waiting at your backdoor/ All this time how could you not know, baby?",
+    "song": "You Belong With Me",
+    "album": "Fearless (Taylor's Version)"
+  },
+
+  {
+    "id": 42,
+    "lyric": "Hello, Mr. Perfectly Fine. How’s your heart after breaking mine?",
+    "song": "Mr. Perfectly Fine",
+    "album": "Fearless (Taylor's Version)"
+  },
+
+  {
+    "id": 43,
+    "lyric": "We’re on the phone and without a warning I realize your laugh is the best sound I have ever heard",
+    "song": "Jump Then Fall",
+    "album": "Fearless (Taylor's Version)"
+  },
+
+  {
+    "id": 44,
+    "lyric": "And then the time we woke up to find that summer had gone",
+    "song": "Tim McGraw",
+    "album": "Taylor Swift"
+  },
+
+  {
+    "id": 45,
+    "lyric": "So watch me strike a match on all my wasted time / As far as I’m concerned, you’re just another picture to burn",
+    "song": "Picture to Burn",
+    "album": "Taylor Swift"
+  },
+
+  {
+    "id": 46,
+    "lyric": "He's the song in the car I keep singing, don't know why I do",
+    "song": "Teardrops on my Guitar",
+    "album": "Taylor Swift"
   }
 ]

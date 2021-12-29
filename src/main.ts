@@ -10,13 +10,8 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-//route
+//api routes
 app.get("/", async (req: Request, res: Response) => {
-  console.log("frontend");
-});
-
-//api subdomain route
-app.get("/api", async (req: Request, res: Response) => {
   const lyric = lyrics[Math.floor(Math.random() * lyrics.length)];
   res.header("Content-Type", "application/json");
   return res.status(200).send({
@@ -24,7 +19,7 @@ app.get("/api", async (req: Request, res: Response) => {
   });
 });
 
-app.get("/api/all", async (req: Request, res: Response) => {
+app.get("/all", async (req: Request, res: Response) => {
   res.header("Content-Type", "application/json");
   return res.status(200).send({
     message: lyrics,
