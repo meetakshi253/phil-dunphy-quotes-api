@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "express": "^4.17.2",
+    "express-subdomain": "^1.0.5",
     "tsconfig-replace-paths": "^0.0.11"
   }
 }
