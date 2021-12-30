@@ -15,7 +15,7 @@ app.get("/", async (req: Request, res: Response) => {
   const quote = quotes[Math.floor(Math.random() * quotes.length)];
   res.header("Content-Type", "application/json");
   return res.status(200).send({
-    message: quote,
+    quote: quote.quote,
   });
 });
 
