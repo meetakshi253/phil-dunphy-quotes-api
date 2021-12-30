@@ -7,28 +7,24 @@ The guy has some good dialogues, and I was bored.
 
 #### Get a random quote
 
-```http
-  GET /
-```
+`GET /`
 #### Get all quotes
 
-```http
-  GET /all
-```
+`GET /all`
 
 ## Example Usage
 
 ```bash
-    $ curl https://phil-dunphy-quotes-api.herokuapp.com
+$ curl https://phil-dunphy-quotes-api.herokuapp.com
 ```
 ```json
+{
+    "message":
     {
-        "message":
-        {
-            "id":5,
-            "quote":"When life gives you lemonade, make lemons. Life will be all, ‘Whaaat?"}
-        }
+        "id":5,
+        "quote":"When life gives you lemonade, make lemons. Life will be all, ‘Whaaat?"
     }
+}
 ```
 
 ## License
