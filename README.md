@@ -19,7 +19,7 @@ $ curl https://phil-dunphy-quotes-api.herokuapp.com
 ```
 ```json
 {
-     "quote":"When life gives you lemonade, make lemons. Life will be all, ‘Whaaat?"
+     "quote":"When life gives you lemonade, make lemons. Life will be all like, ‘Whaaat?"
 }
 ```
 
